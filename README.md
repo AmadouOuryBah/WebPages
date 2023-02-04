@@ -1,4 +1,4 @@
-# MARATHON FROM INTELlECT FOX 
+# ONLINE MARATHON FROM INTELLECT FOX O
 
 In this project it was necessary to work with a figma file  to implent this page  , it looks like  an Instagram page layout .
 I used css flex box and others styles for doing layout .
